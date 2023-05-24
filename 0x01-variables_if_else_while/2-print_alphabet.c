@@ -3,9 +3,9 @@
 /*
  * main - Entry point
  *
- * Description: 'Prints the alphabet in lowercase, followed by a new line.'
+ * Description: Prints the alphabet in lowercase.
  *
- * Return: always 0 (success)
+ * Return: Always 0 (success)
  */
 
 int main(void)
