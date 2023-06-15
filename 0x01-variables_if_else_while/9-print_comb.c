@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  * Description: prints all possible combinations of single-digit numbers.
- * Return: 0 Success
+ * Return: 0 success.
  */
 
 int main(void)
@@ -22,4 +22,5 @@ int main(void)
 		}
 		n++;
 	}
+	return (0);
 }
