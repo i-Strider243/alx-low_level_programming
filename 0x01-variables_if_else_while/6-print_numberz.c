@@ -4,7 +4,7 @@
  * main - entry point
  * Description: Print numbers,
  * without using char
- * Return 0 (success)
+ * Return: 0 (success)
  */
 
 int main(void)
