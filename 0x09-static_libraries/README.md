@@ -1,1 +1,1 @@
-Readme file for static libraries
+Static libraris in C
